@@ -1,0 +1,25 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "Arcade",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 550660,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1486,
+                    "y": 183.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ],
+    "circleSegmentSize": 2
+}
